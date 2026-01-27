@@ -31,3 +31,8 @@ The primary target user of VAJRA is a desktop or laptop user who regularly uses 
 
 ### Secondary Target User
 The secondary target user of VAJRA includes students, creators, and professionals who spend long hours on their desktops and frequently multitask between applications. These users benefit from hands-free interaction, quick system control, and contextual assistance while focusing on their primary work. They value tools that save time and reduce interruptions without requiring constant manual input.
+
+## Core Features
+
+### Core Feature 1: Always-available voice activation
+VAJRA should be always available in the background and activated using a voice-based wake word without requiring the user to manually open the application. This allows seamless, hands-free interaction and makes the assistant feel naturally integrated into the desktop environment rather than behaving like a traditional app.
