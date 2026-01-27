@@ -23,3 +23,8 @@ Most existing voice assistants are primarily designed for mobile devices or smar
 
 ### Problem 3: Lack of personalization in daily assistance
 Current desktop tools and assistants largely provide generic responses without considering the user’s daily context, preferences, or situation. This lack of personalization makes interactions feel robotic and disconnected from real-life needs. As a result, users are required to make additional decisions and adjustments themselves, reducing the effectiveness of assistance in everyday situations.
+
+## Target User
+
+### Primary Target User
+The primary target user of VAJRA is a desktop or laptop user who regularly uses their system for work, study, or personal tasks and values efficiency, convenience, and automation. This user prefers voice-based interaction to reduce manual effort and seeks a more natural and intelligent way to interact with their computer. They are comfortable with technology but want tools that feel intuitive rather than complex.
