@@ -42,3 +42,6 @@ VAJRA should support both natural voice commands and typed input through a float
 
 ### Core Feature 3: Desktop and application control
 VAJRA should be capable of controlling core desktop functions and commonly used applications through voice or text commands. This includes tasks such as opening and closing applications, managing system actions, and performing simple automated workflows. The goal is to allow users to interact with their computer in a more natural and efficient way without relying solely on manual input.
+
+### Core Feature 4: Daily Life Intelligence
+VAJRA should provide intelligent assistance for everyday decisions by considering basic context such as time, usage patterns, and user preferences. Instead of offering generic responses, the assistant should suggest practical and situation-aware guidance for daily activities like routine planning and simple decision-making. This allows VAJRA to feel more personal, supportive, and human-like in daily use.
