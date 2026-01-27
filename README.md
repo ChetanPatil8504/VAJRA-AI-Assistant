@@ -56,3 +56,6 @@ VAJRA is not intended to be a mobile or Android-based assistant in its initial v
 
 ### Non-Goal 2: Not a general-purpose search engine
 VAJRA is not designed to function as a general-purpose search engine or information index. While it can retrieve and summarize information when required, its primary role is to assist with tasks, decisions, and system interaction rather than replacing dedicated search platforms.
+
+### Non-Goal 3: Not fully autonomous decision-making
+VAJRA is not intended to make fully autonomous decisions or perform actions without user awareness or intent. The assistant is designed to assist, suggest, and execute commands initiated or approved by the user, ensuring transparency, control, and trust in all interactions.
