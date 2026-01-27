@@ -9,3 +9,6 @@ VAJRA is a desktop-based, always-available personal AI assistant that responds t
 VAJRA is a desktop-based, always-available personal AI assistant that responds to voice commands, helps in daily life decisions, controls the system, and feels like a premium, human-like assistant.
 
 VAJRA is designed to act as a personal AI companion on the desktop that is always available without the need to manually open an application. It listens for a wake word, understands voice or typed commands, and performs tasks ranging from system control to internet-based queries. VAJRA also assists in everyday decisions such as food suggestions, routine planning, and basic guidance based on the user’s situation. The goal of VAJRA is to provide a smooth, intelligent, and human-like assistant experience with a premium interface.
+
+### Emotional Goal
+VAJRA should feel calm, reliable, and intuitive to interact with, making the user feel assisted rather than overwhelmed. Interactions with VAJRA should reduce effort in daily tasks and decisions, while maintaining a sense of control and trust. The assistant should feel responsive, respectful, and premium, creating a smooth and stress-free experience.
