@@ -36,3 +36,6 @@ The secondary target user of VAJRA includes students, creators, and professional
 
 ### Core Feature 1: Always-available voice activation
 VAJRA should be always available in the background and activated using a voice-based wake word without requiring the user to manually open the application. This allows seamless, hands-free interaction and makes the assistant feel naturally integrated into the desktop environment rather than behaving like a traditional app.
+
+### Core Feature 2: Natural voice and text interaction
+VAJRA should support both natural voice commands and typed input through a floating interface, allowing users to interact in the way that feels most comfortable at any moment. Spoken commands should be accurately transcribed into text and executed, providing transparency and control. This dual interaction model ensures flexibility, accessibility, and a smooth assistant experience across different usage scenarios.
